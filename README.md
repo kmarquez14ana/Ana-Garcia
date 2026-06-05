@@ -1,4 +1,4 @@
-# 👋 Hola, soy Ana García
+# 👋 ¡Hola! Soy Ana García
 
 🎓 Estudiante de Informática apasionada por la tecnología y el desarrollo de software.
 
@@ -6,7 +6,7 @@
 
 ## 🚀 Sobre mí
 
-Soy una estudiante comprometida con el aprendizaje continuo y el desarrollo de habilidades en programación. Actualmente me encuentro fortaleciendo mis conocimientos en desarrollo web, control de versiones y creación de proyectos académicos y personales.
+Soy una estudiante comprometida con el aprendizaje continuo y el desarrollo de habilidades en programación. Actualmente me encuentro fortaleciendo mis conocimientos en desarrollo web y creación de proyectos académicos.
 
 - 🌱 Aprendiendo programación y desarrollo web.
 - 💻 Interesada en el desarrollo de aplicaciones.
@@ -18,18 +18,37 @@ Soy una estudiante comprometida con el aprendizaje continuo y el desarrollo de h
 
 ## 🛠️ Tecnologías y Herramientas
 
-### Lenguajes
+<p align="left">
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<a href="https://developer.mozilla.org/es/docs/Web/HTML">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+</a>
 
-### Herramientas
+<a href="https://developer.mozilla.org/es/docs/Web/CSS">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+</a>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<a href="https://developer.mozilla.org/es/docs/Web/JavaScript">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+</a>
+
+<a href="https://www.python.org/">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+</a>
+
+<a href="https://git-scm.com/">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+</a>
+
+<a href="https://github.com/">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://code.visualstudio.com/">
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+</a>
+
+</p>
 
 ---
 
@@ -45,13 +64,11 @@ Soy una estudiante comprometida con el aprendizaje continuo y el desarrollo de h
 
 ## 🎯 Objetivos
 
-Mi objetivo es desarrollar habilidades sólidas en programación y participar en proyectos que me permitan crecer profesionalmente dentro del mundo tecnológico.
+Mi objetivo es desarrollar habilidades sólidas en programación, crear proyectos innovadores y crecer profesionalmente en el área tecnológica.
 
 ---
 
-## 📂 Proyectos
-
-En este perfil encontrarás:
+## 📂 Mis proyectos
 
 📌 Tareas académicas
 
@@ -59,9 +76,9 @@ En este perfil encontrarás:
 
 📌 Proyectos personales
 
-📌 Ejercicios de aprendizaje
-
 📌 Desarrollo web
+
+📌 Aprendizaje de nuevas tecnologías
 
 ---
 
@@ -73,6 +90,12 @@ En este perfil encontrarás:
 
 ---
 
+## 🔥 Racha de contribuciones
+
+![GitHub Streak](https://streak-stats.demolab.com?user=kmarquez14ana&theme=tokyonight)
+
+---
+
 ## 🌟 Frase que me inspira
 
 > "El aprendizaje constante es la clave para construir un gran futuro."
@@ -81,9 +104,9 @@ En este perfil encontrarás:
 
 ## 📫 Contacto
 
-📧 Correo: tu_correo@ejemplo.com
+💻 GitHub: https://github.com/kmarquez14ana
 
-💼 GitHub: https://github.com/kmarquez14ana
+📍 San Salvador, El Salvador
 
 ---
 
