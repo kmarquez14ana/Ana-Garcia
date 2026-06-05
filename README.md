@@ -82,17 +82,8 @@ Mi objetivo es desarrollar habilidades sólidas en programación, crear proyecto
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kmarquez14ana&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kmarquez14ana&layout=compact&theme=tokyonight)
-
----
 
 ## 🔥 Racha de contribuciones
-
-![GitHub Streak](https://streak-stats.demolab.com?user=kmarquez14ana&theme=tokyonight)
 
 ---
 
